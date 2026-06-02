@@ -5,7 +5,7 @@
  */
 
 const CSV_OP  = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRtrIv7zs5jZBiYE5zetW6xDxXOdSNO63jjq9YoYXCpjSNwVyBmnymtmOisSrjk7Vp8CeJAJHgvfCT-/pub?gid=1882433905&single=true&output=csv';
-const CSV_CUB = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRJ6-rJMMdDHeBDZVkpg4iD6Ydl6vpF3Lhv1t1XkZ4ninZDAmbbJRQkOZ1LQk6rLWbGC-oeK-MbjAWY/pub?output=csv';
+const CSV_CUB = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRJ6-rJMMdDHeBDZVkpg4iD6Ydl6vpF3Lhv1t1XkZ4ninZDAmbbJRQkOZ1LQk6rLWbGC-oeK-MbjAWY/pub?gid=872807596&single=true&output=csv';
 
 let dInicio, dFin, anInicio, anFin;
 let _cacheEnriquecido=null, _cacheHashOp='', _cacheHashCub='';
