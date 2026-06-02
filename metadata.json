@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Ferricar",
+  "description": "Dashboard para el control de retorno de planillas, neveras y cubetas de la cooperativa Ferricar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
